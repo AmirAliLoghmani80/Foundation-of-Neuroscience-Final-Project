@@ -53,11 +53,6 @@ While the HMAX model shows reasonable performance in object recognition tasks, h
 - **Confusion Matrix**: Showing classification results for the HMAX model.
 - **Comparison of Accuracies**: For different image categories between the HMAX model and human subjects.
 
-## Instructions for Use
-
-1. **HMAX Model Implementation**: Follow the provided code to implement the HMAX model with the given dataset.
-2. **Human Experiment**: Replicate the human experiment by displaying the images to subjects and recording their responses.
-
 ## Conclusion
 
 This study provides a comparative analysis between a biologically inspired AI model and human vision in object recognition tasks. The findings suggest that while the HMAX model is effective, there is still a significant gap between AI models and human capabilities in visual processing tasks.
